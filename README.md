@@ -1,3 +1,3 @@
 # rabbitmq-with-reconnect
 
-##rabbitmq 重连
+## rabbitmq 重连
